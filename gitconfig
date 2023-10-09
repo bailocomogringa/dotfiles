@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francisca.delasotta@gmail.com
+	name = Francisca de la Sotta
